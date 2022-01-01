@@ -74,6 +74,10 @@ input, select, textarea {
 
 /* Basic */
 
+	#my{
+		zoom: 80%;
+		}
+
 	html {
 		box-sizing: border-box;
 	}
@@ -1966,7 +1970,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #9ececc;
+			background-color: #4f7977;
 		}
 
 		input[type="button"]:active,
@@ -1974,7 +1978,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #7eaeac;
+			background-color: #4f7977;
 		}
 
 /* Item */
